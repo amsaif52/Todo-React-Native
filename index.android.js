@@ -11,4 +11,4 @@ import {
 
 import APP from './components/APP.js'
 
-AppRegistry.registerComponent('todo', () => todo);
+AppRegistry.registerComponent('todo', () => APP);
